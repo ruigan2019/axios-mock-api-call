@@ -1,6 +1,6 @@
 {
   "categories": [
-    "category": {
+    {
       "id": "category-1",
       "name": "Benefit News",
       "slots": [
@@ -10,7 +10,7 @@
         }
       ]
     },
-    "category": {
+    {
       "id": "category-2",
       "name": "Prime Video Franchise",
       "slots": [
@@ -32,7 +32,7 @@
         }
       ]
     },
-    "category": {
+    {
       "id": "category-3",
       "name": "Best of Prime",
       "slots": [
