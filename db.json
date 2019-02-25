@@ -1,28 +1,22 @@
 {
   "slots": [
     {
-      "id": "hamilton-slot-1-1",
-      "title": "New or updated benefit/membership announcements"
+      "id": "hamilton-slot-1-1: New or updated benefit/membership announcements"
     },
     {
-      "id": "hamilton-slot-2-1",
-      "title": "New and recently added movies to PV"
+      "id": "hamilton-slot-2-1: New and recently added movies to PV"
     },
     {
-      "id": "hamilton-slot-2-2",
-      "title": "Editor's picks"
+      "id": "hamilton-slot-2-2: Editor's picks"
     },
     {
-      "id": "hamilton-slot-2-3",
-      "title": "Seasonal curated"
+      "id": "hamilton-slot-2-3: Seasonal curated"
     },
     {
-      "id": "hamilton-slot-2-4",
-      "title": "Genre picks"
+      "id": "hamilton-slot-2-4: Genre picks"
     },
     {
-      "id": "hamilton-slot-3-1",
-      "title": "Recurring member highlights"
+      "id": "hamilton-slot-3-1: Recurring member highlights"
     }
   ]
 }
