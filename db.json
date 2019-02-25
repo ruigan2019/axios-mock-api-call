@@ -1,46 +1,28 @@
 {
-  "categories": [
+  "slots": [
     {
-      "id": "category-1",
-      "name": "Benefit News",
-      "slots": [
-        {
-          "id": "hamilton-slot-1-1",
-          "title": "New or updated benefit/membership announcements"
-        }
-      ]
+      "id": "hamilton-slot-1-1",
+      "title": "New or updated benefit/membership announcements"
     },
     {
-      "id": "category-2",
-      "name": "Prime Video Franchise",
-      "slots": [
-        {
-          "id": "hamilton-slot-2-1",
-          "title": "New and recently added movies to PV"
-        },
-        {
-          "id": "hamilton-slot-2-2",
-          "title": "Editor's picks"
-        },
-        {
-          "id": "hamilton-slot-2-3",
-          "title": "Seasonal curated"
-        },
-        {
-          "id": "hamilton-slot-2-4",
-          "title": "Genre picks"
-        }
-      ]
+      "id": "hamilton-slot-2-1",
+      "title": "New and recently added movies to PV"
     },
     {
-      "id": "category-3",
-      "name": "Best of Prime",
-      "slots": [
-        {
-          "id": "hamilton-slot-3-1",
-          "title": "Recurring member highlights"
-        }
-      ]
+      "id": "hamilton-slot-2-2",
+      "title": "Editor's picks"
+    },
+    {
+      "id": "hamilton-slot-2-3",
+      "title": "Seasonal curated"
+    },
+    {
+      "id": "hamilton-slot-2-4",
+      "title": "Genre picks"
+    },
+    {
+      "id": "hamilton-slot-3-1",
+      "title": "Recurring member highlights"
     }
   ]
 }
